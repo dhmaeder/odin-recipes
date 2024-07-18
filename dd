@@ -1,0 +1,67 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="dadImage">🦸🏻‍♂️</div>
+        <nav id="navbar">
+            <a href="" id="About"></a>
+            <a href="" id="Quote"></a>
+            <a href="" id="Contact"></a>
+        </nav>
+    </header>
+    <main>
+        <section class="DadInfo">
+            <div>Why was the website slow?
+                Because it had too many cookies!</div>
+            <div>Did you get it?</div>
+            <button class="btn1">Yes</button>
+            <button class="btn2">No</button>
+            <div class="dadImage">🏌🏻</div>
+
+        </section>
+        <section class="RandomInfo">
+            <h1>Dad jokes are the best</h1>
+            <div>
+                <div class="card1">Fish</div>
+                <p>Dads love telling corny jokes.</p>
+            </div>
+            <div>
+                <div class="card2">Are</div>
+                <p>Many dads have a favorite chair.</p>
+            </div>
+            <div>
+                <div class="card3">In</div>
+                <p>Dads are often the family handyman.</p>
+            </div>
+            <div>
+                <div class="card4">School</div>
+                <p>Dads enjoy sharing their hobbies with their kids.</p>
+            </div>
+
+        </section>
+        <section class="Quote">
+            <div>Being a dad means showing up, giving hugs, and being the hero in your child's eyes. It's about love,
+                laughter, and making memories that last a lifetime.</div>
+            <div class="QuoteAuthor">-Best Dad</div>
+
+        </section>
+        <section class="CallToAction">
+            <h1 class="CallToActionHeading"></h1>
+            <div>Send me your best Dad Jokes</div>
+            <button class="btn3">Email Me</button>
+        </section>
+    </main>
+    <footer>
+        <div>Copyright © The Odin Project 2024</div>
+        <div>Copyright Dylan Maeder</div>
+    </footer>
+</body>
+
+</html>
